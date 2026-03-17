@@ -1,5 +1,7 @@
 # Shaurya Vikram Singh
 ### Student • Researcher • Architect
+# Shaurya Vikram Singh
+[Official Profile Site](https://shauryavikram.netlify.app/)
 
 Currently navigating my academic journey with a focus on **high-fidelity systems** and **computational science**. Based in Varanasi, I bridge the gap between complex data and human-friendly interfaces through logic and clean design.
 
